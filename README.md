@@ -12,7 +12,7 @@
 | [Programmers](https://programmers.co.kr/) | 국내 기업 코딩테스트 플랫폼 제공 |
 | [Codeforces](https://codeforces.com/) | 알고리즘 대회 준비 |
 
-## ✅`How to`
+## ✅ How to
 
 - 매주 하나의 주제(DP, BFS 등)를 정해서 문제풀이
 - 매주 한명당 1문제씩 공통문제 LeetCode에서 고르기

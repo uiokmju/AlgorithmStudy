@@ -51,6 +51,6 @@
 
 ## :raising_hand: Contributors
 
-| [selgi](https://github.com/seulgi00112)     | [**sanga**](https://github.com/sanga) |
+| [selgi](https://github.com/seulgi00112)     | [**sanga**](https://github.com/sanga125) |
 | ----------------------------------------------- | ----------------------------------------- |
 | [**byeol**](https://github.com/imstargit) | [**daejin**](https://github.com/daejin)     |

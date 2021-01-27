@@ -15,7 +15,8 @@
 ## :ledger: 진행방식
 
 - 매주 하나의 주제(DP, BFS 등)를 정해서 문제풀이
-- 매주 한명당 1문제씩 문제 선정 후 업로드
+- 매주 한명당 1문제씩 공통문제 LeetCode에서 고르기
+- 각자 한문제는 풀고 싶은것 풀기
 - 주마다 코드 및 설명을 업로드
 - 자신이 사용하고 싶은 언어로 풀이
 - Github 활용
@@ -47,6 +48,6 @@
 
 ## :raising_hand: Contributors
 
-| [selgi](https://github.com/seulgi00112)     | [**sanga**](https://github.com/sanga125) |
+| [**selgi**](https://github.com/seulgi00112)     | [**sanga**](https://github.com/sanga125) |
 | ----------------------------------------------- | ----------------------------------------- |
 | [**byeol**](https://github.com/imstargit) | [**daejin**](https://github.com/uiokmju)     |

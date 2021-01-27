@@ -10,6 +10,8 @@
 
 [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
+[LeetCode](https://leetcode.com/)
+
 ## :ledger: 진행방식
 
 - 매주 하나의 주제(DP, BFS 등)를 정해서 문제풀이

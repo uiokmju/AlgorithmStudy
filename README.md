@@ -1,6 +1,3 @@
-# 📚 AlgorithmStudy
-
-
 # :books: Algorithm Study
 
 ## :orange_book: 알고리즘 사이트

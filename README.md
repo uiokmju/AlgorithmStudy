@@ -44,7 +44,8 @@
 | 분류     |                                                   |                                                   |                                                   |
 | -------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | 자료구조 | [괄호](https://www.acmicpc.net/problem/9012)      | [쇠막대기](https://www.acmicpc.net/problem/10799) | [스택 수열](https://www.acmicpc.net/problem/1874) |
-| BFS/DFS  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) |                                                   |                                                   |
+| BFS/DFS  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) |                                                   |                                            |
+| 참고자료  | [Github 참조](https://dev-youngjun.tistory.com/47)|                                                   |                 |
 
 ## :raising_hand: Contributors
 

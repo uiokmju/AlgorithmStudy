@@ -1,1 +1,1 @@
-# :books: Algorithm Study
+# :books: Seulgi의 Algorithm

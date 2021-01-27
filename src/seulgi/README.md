@@ -1,1 +1,1 @@
-##Seulgi의 Algorithm
+# :books: Algorithm Study

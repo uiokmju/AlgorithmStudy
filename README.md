@@ -30,7 +30,7 @@
 
 |       |   공통        |           seulgi               |        byeol                        |                 daejin        |                            sanga        | 
 |------ | :------------: | :----------------------------: | :-------------------------------: | :---------------------------: | :---------------------------------------: |
-| 1주차  | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |              |    |        | |
+| 1주차  | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)    |        | |
 | 2주차  |     |              |    |        | |
 | 3주차  |     |              |    |        | |
 | 4주차  |     |              |    |        | |

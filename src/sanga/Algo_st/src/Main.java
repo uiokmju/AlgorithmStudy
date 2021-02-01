@@ -24,6 +24,6 @@ public class Main {
 			System.out.print(i);
 			answer[i] = addNum.get(i);
 		}
-		System.out.print(answer.toString());
+		
 	}
 }
